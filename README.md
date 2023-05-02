@@ -5,6 +5,11 @@ We've meticulously developed this project, starting with raw data and utilizing 
 
 Say goodbye to spam-filled inboxes and hello to hassle-free email management with our Email-Spam-Detection project. Get your hands on it now and experience the ultimate in email security!
 
+The streamlit site looks like shown in the image below:
+
+![image](https://user-images.githubusercontent.com/72991419/235753973-6f87f61f-2a7b-49ad-bffc-f8e5f118d754.png)
+
+
 Looking towards the future, there are endless opportunities to enhance the capabilities of our Email-Spam-Detection project. One possible area of development could be the incorporation of deep learning techniques to further improve the accuracy of the spam detection system. Additionally, we could explore the use of natural language processing (NLP) algorithms to better understand the context and nuances of email messages, enabling more accurate predictions.
 
 Another exciting avenue for future development could be the integration of our project with popular email clients, making it easier for users to quickly and seamlessly check whether an email is spam or not. We could also explore the use of feedback mechanisms to allow users to flag emails that.
